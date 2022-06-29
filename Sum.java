@@ -3,6 +3,6 @@ public static void main(String arg[])
 {
 int a=;
 int b=6;
-System.out.print(a+b);
+System.out.print("print");
 }
 }
